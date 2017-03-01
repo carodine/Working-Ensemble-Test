@@ -620,6 +620,14 @@ a:hover {
     background-color: grey;
 }
 
+#DropIn iframe {
+    width: 100%;
+    height: 350px;
+    border-width: 0;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
 
 /********************************************
 	Fluid Media
